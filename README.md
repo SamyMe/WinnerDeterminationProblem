@@ -39,19 +39,20 @@ b4:   4 5
 B5:   6 8
 
 *Some solutions*: 
+
 S1: b1 b2 
 
 S2: b3 b4 b5
 
 *Neighbors*:
+
 (Let **S1'** be a neighbor of S1)
-1. **S1'** = S1 = (b1 b2)
-2. E = b5
-3. b2 is in conflict with b5 so:
-           S1' = S1' - b2 = (b1)
-4. S1' = S1' + E = (b1 b5)
-5. b4 Is in conflict with neither b1 nor b5 so:
-           S1' = S1' + b4
+
+1. **S1'** *= S1 = (b1 b2)*
+2. *E = b5*
+3. b2 is in conflict with b5 so: *S1' = S1' - b2 = (b1)*
+4. *S1' = S1' + E = (b1 b5)*
+5. b4 Is in conflict with neither b1 nor b5 so:  *S1' = S1' + b4*
 
 ***
 
