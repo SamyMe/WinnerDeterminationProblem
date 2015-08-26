@@ -9,6 +9,7 @@ The combinatorial auctions have been used in solving resource and task allocatio
 
 ###Algorithme:
 The algorithme proposed in [2] is as follows : 
+
 ![Image Alt](https://duckduckgo.com/assets/badges/logo_square.64.png)
 
 We made few changes:
@@ -29,4 +30,10 @@ c Springer-Verlag Berlin Heidelberg 2013
 springerlink.com
 
 - [2] Dalila Boughaci, Belaid Benhamou et Habiba Drias : Une recherche locale stochastique pour le problème de la détermination du gagnant dans les enchères combinatoires. Gilles Trombettoni. JFPC 2008- Quatrièmes Journées Francophones de Programmation par Contraintes, Jun 2008, Nantes, France. pp.59-68. https://hal.inria.fr/inria-00290789/document
+- 
+###License:
+This is published under GNU GPL Lisence.
+For more informations about the terms: https://www.gnu.org/licenses/gpl.html
+
+![Image Alt](https://www.gnu.org/graphics/gplv3-127x51.png)
 
